@@ -1,6 +1,6 @@
 {
 "name": "onboarding-3",
-"version: "1.0.0",
+"version": "1.0.0",
 "devDependencies": {
   "chalk": "^2.0.0"
   }
